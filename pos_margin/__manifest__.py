@@ -22,7 +22,7 @@
         "point_of_sale._assets_pos": [
             "pos_margin/static/src/js/models.esm.js",
             "pos_margin/static/src/js/OrderSummaryMargin.esm.js",
-            "pos_margin/static/src/xml/pos_margin.xml",
+            # "pos_margin/static/src/xml/pos_margin.xml",
             "pos_margin/static/src/css/*.css",
         ],
     },
